@@ -1,6 +1,5 @@
 # Classes Exercices from #30DaysOfJavascript
-[https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md
-](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/15_Day_Classes/15_day_classes.md)
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/15_Day_Classes/15_day_classes.md
 
 # Learning
 - class allows to create an object with built in properties
